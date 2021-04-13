@@ -3,7 +3,7 @@
 
 品牌 | 苹果的 iMac | 微软的 Surface Studio 2
 ------- | ------- | -------
-图片 | ![](https://img12.360buyimg.com/n1/s450x450_jfs/t1/135650/21/6149/57352/5f2b743cEf4126985/6cb534d754547561.jpg) | ![](https://img12.360buyimg.com/n1/jfs/t1/19097/5/9236/426856/5c7c9963Eaa2de829/ec55cafd43602ec7.png)
+图片 | ![](https://img12.360buyimg.com/n1/s450x450_jfs/t1/135650/21/6149/57352/5f2b743cEf4126985/6cb534d754547561.jpg) | ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fn.sinaimg.cn%2Ftranslate%2F0%2Fw2048h1152%2F20181003%2FqEOR-hkvrhps1541121.jpg&refer=http%3A%2F%2Fn.sinaimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620886729&t=6dcf7591efc38ff09e2aefdaf3c6ab9d)
 缺点 | 苹果的 iMac 产品线每年虽然在更新，但是基本都是换汤不换，屏幕的黑边也很大，安装 Windows 系统之后无法发挥全部效果 |很长时间没有更新产品线，配置的性价比不是很高
 优点 | 品控和质感都很好，如果使用原厂系统的话，使用方便快捷，生态环境好 | 自家系统，对于自己的硬件兼容性更好
 价格 | 13000+~17000+ | 25000+
